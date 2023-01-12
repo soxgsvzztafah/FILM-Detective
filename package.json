@@ -19,19 +19,19 @@
     "homepage": "https://github.com/DARK-DEVIL-BOTZ/Film-Detective#readme"
 
     "dependencies": {
-       "git+https://github.com/Joelkb/cinemagoer": "1.0.0"
-       "pyrogram": ">=2.0.30"
-       "imdbpy": "==2022.7.9"
-       "tgcrypto": "1.2.5"
-       "pymongo[srv]": "==3.12.3"
-       "motor": "==2.5.1"
-       "marshmallow": "==3.14.1"
-       "umongo": "==3.0.1"
-       "cinemagoer": "2022.12.27"
-       "requests": "2.28.1"
-       "bs4": "0.0.1"
-       "pynewtonmath": "1.0.1"
-       "pytz": "2022.7"
+       "git+https://github.com/Joelkb/cinemagoer": "1.0.0",
+       "pyrogram": ">=2.0.30",
+       "imdbpy": "==2022.7.9",
+       "tgcrypto": "1.2.5",
+       "pymongo[srv]": "==3.12.3",
+       "motor": "==2.5.1",
+       "marshmallow": "==3.14.1",
+       "umongo": "==3.0.1",
+       "cinemagoer": "2022.12.27",
+       "requests": "2.28.1",
+       "bs4": "0.0.1",
+       "pynewtonmath": "1.0.1",
+       "pytz": "2022.7",
        "aiohttp": "3.8.3"
     }
 }
