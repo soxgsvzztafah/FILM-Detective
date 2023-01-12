@@ -4,7 +4,7 @@
   "description": "💞Telegram Auto Movies and Tv series Filter Boy💞",
   "main": "./Film-Detective/Film-Detective.py",
   "scripts": {
-    "build": "pip3 install -U -r requirements.txt"
+    "build": "pip3 install -U -r requirements.txt",
     "start": "python3 Film-Detective.py"
   },
   "repository": {
@@ -12,7 +12,6 @@
     "url": "git+https://github.com/soxgsvzztafah/Film-Detective.git"
   },
   "keywords": [
-    "telegram,
     "bot",
     "film-detective",
     "darldevil",
