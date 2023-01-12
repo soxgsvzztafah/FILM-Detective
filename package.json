@@ -19,7 +19,7 @@
     "homepage": "https://github.com/DARK-DEVIL-BOTZ/Film-Detective#readme"
 
     "dependencies": {
-       "git+https://github.com/Joelkb/cinemagoer"
+       "git+https://github.com/Joelkb/cinemagoer": "1.0.0"
        "pyrogram": ">=2.0.30"
        "imdbpy": "==2022.7.9"
        "tgcrypto": "1.2.5"
